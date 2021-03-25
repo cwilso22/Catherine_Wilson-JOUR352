@@ -1,0 +1,64 @@
+#content {
+margin: 0 auto;
+width: 900px;
+}
+
+.masthead {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+height: 18em;
+}
+
+.headline {
+font-family: "Garamond";
+font-size: 38px;
+color: Black;
+font-style: normal;
+font-weight: bold;
+}
+
+/* My original design was going to use the maroon colored font to highlight certain words or to separate different aspects in a line of text. */
+
+#byline {
+font-family: "Helvetica";
+font-size: 16px;
+color: #800000;
+font-weight: normal;
+}
+
+/* For instance I tried to make the name of the author maroon and keep the date black by using design exeptions. However I couldn't execute it properly after fiddling around with it for an hour and had to move on. */
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  width: 100%;
+}
+
+.caption {
+  font-family: "Helvetica";
+  font-size: 12px;
+}
+
+.subhead {
+font-family: "Helvetica";
+font-size: 20px;
+color: #800000;
+font-weight: bold;
+}
+
+p {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+}
+
+blockquote {
+  font-size: 3em;
+  font-weight: 600;
+  color: #800000;
+  margin: 0 auto;
+  text-align: center;
+}
