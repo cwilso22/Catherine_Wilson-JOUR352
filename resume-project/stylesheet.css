@@ -1,0 +1,256 @@
+#bodycontent {
+margin: 0 auto;
+width: 0 auto;
+height: 0 auto;
+}
+
+/* Banner Heading Code */
+
+#bannercontainer {
+display: grid;
+grid-row-gap: 0px;
+grid-column-gap: 0px;
+grid-template-columns: 2fr;
+grid-template-rows: 3fr;
+max-height: 45em;
+max-width: 100%;
+}
+
+.banner {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+height: 35em;
+}
+
+.headshot {
+margin-top: -80px;
+margin-bottom: 0em;
+max-width: 60%;
+}
+
+.image1{
+max-width: 100%;
+width:100%;
+display: block;
+margin: 0 auto;
+}
+
+/* End of Banner Code */
+
+/* Navigation Bar Junk */
+
+.navish {
+max-width: 50%;
+text-align: center;
+margin-top: 150px;
+margin-bottom:0em;
+padding-bottom: 10px;
+padding-top: 10px;
+background-color: #648ACC;
+color: white;
+border-radius: 25px;
+margin-left: auto;
+margin-right: -65px;
+font-size: 3em;
+font-family: Lucida;
+margin-top: 70px;
+}
+
+.button {
+background-color:#FFFFFF;
+border: none;
+padding: 2px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-weight: 400;
+font-size: 0.8em;
+line-height: 150%;
+margin: 5px;
+width: 90%;
+}
+
+.button1 {
+border-radius: 15px;
+}
+
+.hr1 {
+max-width: 80%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+height:3px !important;
+color: #7ACBF5;
+}
+
+/* End of Navigation Bar Misery */
+
+/* Icons start here */
+
+#icon {
+margin-left: 37%;
+margin-right: auto;
+margin-top: 2%;
+}
+
+/* End of icons */
+
+/* Bio: The Story of My Life this far */
+
+#biocontainer {
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+background-color: #648ACC;
+color: white;
+border-radius: 25px;
+font-size: 2.5em;
+font-family: Lucida;
+width: 55%;
+margin-left: 24%;
+margin-top: 40px;
+}
+
+.hr2 {
+max-width: 20%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+height:3px !important;
+color: #7ACBF5;
+}
+
+.biotext {
+color: white;
+font-family: Georgia;
+text-align: center;
+font-size: 25px;
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 1%;
+padding-bottom: 1%;
+}
+
+/* End of Bio but life goes on */
+
+.hr3 {
+max-width: 31%;
+display: block;
+margin-left: 36%;
+margin-right: auto;
+height:5px !important;
+color: #648ACC;
+}
+
+#bulkcontainer {
+max-width: 55%;
+margin-left: 24%;
+}
+
+.experience {
+font-family: Lucida;
+font-size: 3em;
+color: #648ACC;
+margin-left: 24%;
+}
+
+.hr4 {
+max-width: 55%;
+display: block;
+margin-left: 24%;
+margin-right: auto;
+height:5px !important;
+color: #648ACC;
+}
+
+.position {
+font-family: Lucida;
+font-size: 35px;
+color: Black;
+}
+
+.company {
+font-family: Lucida;
+font-size: 35px;
+color: Black;
+}
+
+.date {
+text-align: right;
+font-family: Lucida;
+font-size: 35px;
+color: #648ACC;
+margin-top: -8%;
+font-style: italic;
+}
+
+ul {
+font-family: Georgia;
+font-size: 25px;
+color: Black;
+}
+
+/* Education starts here */
+
+.education {
+font-family: Lucida;
+font-size: 3em;
+color: #648ACC;
+margin-left: 24%;
+}
+
+p {
+font-family: Georgia;
+font-size: 25px;
+color: Black;
+}
+
+.graddate {
+text-align: right;
+font-family: Lucida;
+font-size: 35px;
+color: #648ACC;
+margin-top: -8%;
+font-style: italic;
+margin-top: -11%;
+}
+
+.gpa {
+font-family: Lucida;
+font-size: 25px;
+color: Black;
+text-align: right;
+padding-top: 8px;
+}
+
+.skills {
+font-family: Lucida;
+font-size: 3em;
+color: #648ACC;
+margin-left: 24%;
+}
+
+.contact {
+font-family: Georgia;
+font-size: 15px;
+color: Black;
+text-align: left;
+}
+
+.phone {
+font-family: Georgia;
+font-size: 15px;
+color: Black;
+text-align: center;
+margin-top: -7%;
+}
+
+.copyright {
+font-family: Georgia;
+font-size: 15px;
+color: Black;
+text-align: right;
+margin-top: -2%;
+}
