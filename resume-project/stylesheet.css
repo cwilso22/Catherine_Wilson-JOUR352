@@ -1,7 +1,5 @@
 #bodycontent {
 margin: 0 auto;
-width: 0 auto;
-height: 0 auto;
 }
 
 /* Banner Heading Code */
@@ -27,7 +25,7 @@ height: 35em;
 .headshot {
 margin-top: -80px;
 margin-bottom: 0em;
-max-width: 60%;
+max-width: 90%;
 }
 
 .image1{
@@ -42,7 +40,7 @@ margin: 0 auto;
 /* Navigation Bar Junk */
 
 .navish {
-max-width: 50%;
+max-width: 60%;
 text-align: center;
 margin-top: 150px;
 margin-bottom:0em;
