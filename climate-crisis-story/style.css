@@ -1,0 +1,109 @@
+.headline {
+font-size: 2.5em;
+font-weight: 700;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+
+.topper {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+
+.byline {
+font-size: 1em;
+text-transform: uppercase;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+
+p {
+font-family: georgia, serif;
+line-height: 180%;
+}
+
+.subhead {
+font-size: 24px;
+font-weight: 700; bold;
+text-align: left;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+
+.photo {
+display: block;
+margin-right: auto;
+margin-left: auto;
+width: 100%;
+margin-top: 1em;
+}
+
+/* I give up... I tried making a container for it so it could start lower. Without being on a grid system its impossible and I really didn't have 10 hours to spend trying to get that to work as well. I also couldn't get the border to work so that it could mimmic the rest of my style so this is supposed to look way different.*/
+
+.sidebar {
+height: 100%;
+width: 430px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: black;
+border-color: red;
+border-width: medium;
+overflow-x: hidden;
+padding-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.content {
+color: white;
+font-size: 20px;
+text-align: left;
+font-family: georgia, serif;
+}
+
+.caption {
+text-align: left;
+font-family: georgia, serif;
+size: 14px;
+font-weight: bold;
+text-align: center;
+}
+
+.container {
+margin: 0 auto;
+width: 900px;
+}
+
+.hr1 {
+height: 10px !important;
+color: Black !important;
+width: 50%;
+margin: auto;
+margin: auto;
+weight: 10px;
+}
+
+.footer {
+text-align: center;
+font-family: georgia, serif;
+size: 8px;
+}
+
+/* Hypterlinks yo, I have no idea what I'm doing... and I'm losing my mind. */
+
+a:link {
+color: blue;
+text-decoration: underline;
+}
+
+a:visited {
+color: red;
+}
+
+a:hover {
+background-color: red;
+}
